@@ -1,0 +1,7 @@
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\bin\Debug\CIATransfer(SocketPunchFBI).exe
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\bin\Debug\CIATransfer(SocketPunchFBI).pdb
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\obj\x86\Debug\CIATransferSocketPunchFBI.Properties.Resources.resources
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\obj\x86\Debug\CIATransferSocketPunchFBI.csproj.GenerateResource.Cache
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\obj\x86\Debug\CIATransfer(SocketPunchFBI).exe
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\obj\x86\Debug\CIATransfer(SocketPunchFBI).pdb
+D:\MyDoc\Visual Studio 2010\Projects\CIATransferSocketPunchFBI\CIATransferSocketPunchFBI\obj\x86\Debug\CIATransferSocketPunchFBI.FormMain.resources
